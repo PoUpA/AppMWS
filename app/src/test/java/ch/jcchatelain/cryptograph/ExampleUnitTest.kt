@@ -1,4 +1,4 @@
-package com.example.cryptograph
+package ch.jcchatelain.cryptograph
 
 import org.junit.Test
 
