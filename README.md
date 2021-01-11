@@ -1,4 +1,8 @@
 <h1 align="center">
+  <b>CryptoGraph</b>
+  <br>
+</h1>
+<h1 align="center">
   <br>
   <a href="https://github.com/PoUpA/AppMWS/archive/master.zip"><img src="https://jcchatelain.ch/images/bitcoin.png" alt="CryptoGraph"></a>
 </h1>
@@ -26,7 +30,7 @@
 <tr>
 <td>
 
-**CryptoGraph** est une application **simple** permettant d'affiche le cours des _Cryptomonnaies_ présentes sur l'échange **[Bybit](https://www.bybit.com/en-US?affiliate_id=13289&group_id=0&group_type=1)**
+**CryptoGraph** est une application **simple** permettant d'afficher le cours des _Cryptomonnaies_ présentes sur l'échange **[Bybit](https://www.bybit.com/en-US?affiliate_id=13289&group_id=0&group_type=1)**
 
 ![PoUpA CryptoGraph Code](https://jcchatelain.ch/images/cryptograph_main.png)
 ![PoUpA CryptoGraph Code](https://jcchatelain.ch/images/cryptograph_graph.png)
