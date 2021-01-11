@@ -30,7 +30,7 @@ interface Webservice {
     @GET("kline/list")
     suspend fun getKlineInversePerpetual(
         @Query("symbol") symbol: String = "BTCUSD",
-        @Query("interval") interval: String = "240",
+        @Query("interval") interval: String = "D",
         @Query("from") fromTime: Long = 0,
         @Query("limit") limit: Int = 200
     ): BybitKlineResult

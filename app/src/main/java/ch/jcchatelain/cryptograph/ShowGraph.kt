@@ -21,7 +21,7 @@ class ShowGraph : AppCompatActivity() {
         GlobalScope.launch(Dispatchers.IO) {
             val apiGraph = api.getKlineInversePerpetual(
                 symbol = Symbol,
-                fromTime = getDaysAgo(360).toInstant().epochSecond
+                fromTime = getDaysAgo(200).toInstant().epochSecond
             )
             var datas = apiGraph.result
             var k_line_chart =
