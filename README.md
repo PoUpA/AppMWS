@@ -38,7 +38,6 @@
 </tr>
 </table>
 
-<div>Icônes conçues par <a href="https://www.flaticon.com/fr/icone-gratuite/bitcoin_712615?origin=pack&related_id=1181125" title="DinosoftLabs">DinosoftLabs</a> depuis <a href="https://www.flaticon.com/fr/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Features
 
@@ -56,3 +55,7 @@ Importer le projet dans AndroidStudio et attendre que Gradle récupère les dép
 
 * [Retrofit](https://square.github.io/retrofit/)
 * [KLineChart](https://github.com/liihuu/KLineChartAndroid)
+
+
+
+<div>Icônes conçues par <a href="https://www.flaticon.com/fr/icone-gratuite/bitcoin_712615?origin=pack&related_id=1181125" title="DinosoftLabs">DinosoftLabs</a> depuis <a href="https://www.flaticon.com/fr/" title="Flaticon">www.flaticon.com</a></div>
